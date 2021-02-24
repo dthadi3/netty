@@ -2,4 +2,4 @@ arch:
   - amd64
   - ppc64le
 language: java
-dist: focal
+dist: bionic
